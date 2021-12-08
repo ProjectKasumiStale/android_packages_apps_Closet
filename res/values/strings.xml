@@ -16,10 +16,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">OwlsNest</string>
-    <string name="header_category">OwlsNest</string>
-    <string name="title">OwlsNest</string>
-    <string name="owlsnest_summary_title">Home of the Kronic</string>
+    <string name="app_name">Kasumi\'s Closet</string>
+    <string name="header_category">Kasumi\'s Closet</string>
+    <string name="title">Kasumi\'s Closet</string>
+    <string name="closet_summary_title">Dress Kasumi up however you want~!</string>
     <!-- Activity titles defined in AndroidManifest.xml -->
     <string name="title_clipboard_share">Copy to Clipboard</string>
     <!-- Share to clipboard -->
@@ -30,14 +30,14 @@
     <string name="menu_main_activity_change_locale">Locale</string>
 
     <!-- AOSiP device info settings -->
-    <string name="aosip_version">AOSiP version</string>
-    <string name="aosip_version_default">Unknown</string>
+    <string name="kasumi_version">Kasumi version</string>
+    <string name="kasumi_version_default">Derped source?!</string>
 
     <!-- AOSiP custom settings main -->
     <string name="header_category_personalization">UI settings</string>
-    <string name="custom_title">OwlsNest</string>
-    <string name="aosip_title">AOSiP Settings</string>
-    <string name="owlsnest_settings_title">Categories</string>
+    <string name="custom_title">Kasumi\'s Closet</string>
+    <string name="kasumi_title">Kasumi\'s Closet</string>
+    <string name="closet_settings_title">Categories</string>
 
     <!-- AOSiP Updater -->
     <string name="ota_title">OTA Updates</string>
@@ -209,7 +209,7 @@
     <string name="logo1">Kronic 2.0</string>
     <string name="logo2">Kronic 3.0</string>
     <string name="logo3">Khloe</string>
-    <string name="logo4">OwlsNest</string>
+    <string name="logo4">Closet</string>
     <string name="logo5">RR Owl</string>
 
     <!-- StatusBar weather settings -->
@@ -966,9 +966,9 @@
     <string name="screen_record_chord_selscreenshot">Take screenshot of selectable area</string>
 
     <!-- AOSIP summary text -->
-    <string name="owlsnest_settings_summary_title">Custom AOSiP summary text</string>
-    <string name="custom_summary_title">Custom AOSiP summary</string>
-    <string name="custom_summary_explain">Please enter a new summary. Leave blank to revert to stock text.</string>
+    <string name="closet_settings_summary_title">Custom Closet tagline</string>
+    <string name="custom_summary_title">Custom Closet tagline</string>
+    <string name="custom_summary_explain">Please enter a new tagline. Leave blank to revert to stock text.</string>
 
     <!-- In-call DND -->
     <string name="dnd_when_call_title">In-call do not disturb</string>

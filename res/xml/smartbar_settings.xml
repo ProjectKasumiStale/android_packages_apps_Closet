@@ -53,7 +53,7 @@
         android:entryValues="@array/smartbar_longpress_delay_values"
         android:summary="@string/smartbar_longpress_delay_summary" />
 
-    <com.aosip.owlsnest.preference.CustomSeekBarPreference
+    <com.kasumi.closet.preference.CustomSeekBarPreference
         android:key="navbar_buttons_alpha"
         android:title="@string/navbar_buttons_alpha_title"
         settings:max="255"
@@ -61,7 +61,7 @@
         settings:units=""
         android:persistent="false" />
 
-    <com.aosip.owlsnest.preference.CustomSeekBarPreference
+    <com.kasumi.closet.preference.CustomSeekBarPreference
         android:key="smartbar_custom_icon_size"
         android:title="@string/smartbar_custom_icon_size_title"
         settings:max="100"
@@ -69,19 +69,19 @@
         settings:units="%"
         android:persistent="false" />
 
-    <com.aosip.owlsnest.preference.SystemSettingSwitchPreference
+    <com.kasumi.closet.preference.SystemSettingSwitchPreference
         android:key="smartbar_doubletap_sleep"
         android:title="@string/smartbar_doubletap_sleep_title"
         android:summary="@string/smartbar_doubletap_sleep_summary"
         android:defaultValue="true" />
 
-    <com.aosip.owlsnest.preference.SecureSettingSwitchPreference
+    <com.kasumi.closet.preference.SecureSettingSwitchPreference
         android:key="one_handed_mode_ui"
         android:title="@string/one_handed_mode_title"
         android:summary="@string/one_handed_mode_summary"
         android:defaultValue="true" />
 
-    <com.aosip.owlsnest.preference.SystemSettingSwitchPreference
+    <com.kasumi.closet.preference.SystemSettingSwitchPreference
         android:key="navbar_tint_switch"
         android:title="@string/navbar_tint_switch"
         android:defaultValue="false" />

@@ -1,4 +1,5 @@
-OwlsNest
+Kasumi's Closet
 =============
-Built by us for AOSIP
-Hard coded into the main settings apk
+Built by AOSiP Team under "OwlsNest" name, rebranded for Project Kasumi by Bedirhan KURT.
+
+Hard-coded into the main Settings APK.

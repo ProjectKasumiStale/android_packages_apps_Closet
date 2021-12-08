@@ -37,14 +37,14 @@
             android:digits="0123456789ABCDEFabcdef"
             android:inputType="textNoSuggestions"
             android:maxLength="6" />
-        <com.aosip.owlsnest.preference.ColorPanelView
+        <com.kasumi.closet.preference.ColorPanelView
             android:id="@+id/color_panel"
             android:layout_width="0px"
             android:layout_height="match_parent"
             android:layout_marginStart="10dp"
             android:layout_weight="0.5" />
     </LinearLayout>
-    <com.aosip.owlsnest.preference.ColorPickerView
+    <com.kasumi.closet.preference.ColorPickerView
         android:id="@+id/color_picker_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

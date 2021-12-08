@@ -52,7 +52,7 @@
             android:summary="@string/eos_fling_lavalamp_summary"
             android:dependency="eos_fling_show_pulse" />
 			
-        <com.aosip.owlsnest.preference.CustomSeekBarPreference
+        <com.kasumi.closet.preference.CustomSeekBarPreference
             android:key="pulse_custom_buttons_opacity"
             android:title="@string/pulse_custom_buttons_opacity_title"
             android:max="255"
@@ -63,7 +63,7 @@
             android:key="pulse_fading_bars_category"
             android:title="@string/pulse_legacy_mode_advanced_category">
 
-           <com.aosip.owlsnest.preference.CustomSeekBarPreference
+           <com.kasumi.closet.preference.CustomSeekBarPreference
                 android:key="pulse_custom_dimen"
                 android:title="@string/pulse_custom_dimen"
                 settings:max="30"
@@ -71,7 +71,7 @@
                 settings:units="dp"
                 android:dependency="pulse_fading_bars_category"/>
 
-           <com.aosip.owlsnest.preference.CustomSeekBarPreference
+           <com.kasumi.closet.preference.CustomSeekBarPreference
                 android:key="pulse_custom_div"
                 android:title="@string/pulse_custom_div"
                 settings:max="44"
@@ -80,7 +80,7 @@
                 settings:units="dp"
                 android:dependency="pulse_fading_bars_category"/>
 
-           <com.aosip.owlsnest.preference.CustomSeekBarPreference
+           <com.kasumi.closet.preference.CustomSeekBarPreference
                 android:key="pulse_filled_block_size"
                 android:title="@string/pulse_filled_block_size"
                 settings:max="8"
@@ -88,7 +88,7 @@
                 settings:units="dp"
                 android:dependency="pulse_fading_bars_category"/>
 
-           <com.aosip.owlsnest.preference.CustomSeekBarPreference
+           <com.kasumi.closet.preference.CustomSeekBarPreference
                 android:key="pulse_empty_block_size"
                 android:title="@string/pulse_empty_block_size"
                 settings:max="4"
@@ -96,14 +96,14 @@
                 settings:units="dp"
                 android:dependency="pulse_fading_bars_category"/>
 
-           <com.aosip.owlsnest.preference.CustomSeekBarPreference
+           <com.kasumi.closet.preference.CustomSeekBarPreference
                 android:key="pulse_custom_fudge_factor"
                 android:title="@string/pulse_custom_fudge_factor"
                 settings:max="6"
                 settings:min="2"
                 android:dependency="pulse_fading_bars_category"/>
 
-           <com.aosip.owlsnest.preference.CustomSeekBarPreference
+           <com.kasumi.closet.preference.CustomSeekBarPreference
                 android:key="fling_pulse_lavalamp_speed"
                 android:title="@string/lavamp_solid_speed_title"
                 settings:max="30000"
@@ -117,14 +117,14 @@
         android:key="pulse_2"
         android:title="@string/pulse_solid_dimen_category" >
 		
-	<com.aosip.owlsnest.preference.CustomSeekBarPreference
+	<com.kasumi.closet.preference.CustomSeekBarPreference
             android:key="pulse_solid_units_opacity"
             android:title="@string/pulse_solid_units_opacity"
             settings:max="255"
             settings:min="0"
             android:dependency="pulse_2"/>
 				
-	<com.aosip.owlsnest.preference.CustomSeekBarPreference
+	<com.kasumi.closet.preference.CustomSeekBarPreference
             android:key="pulse_solid_units_count"
             android:title="@string/pulse_solid_units_count"
             settings:max="128"
@@ -132,14 +132,14 @@
             settings:min="32"
             android:dependency="pulse_2"/>
 
-        <com.aosip.owlsnest.preference.CustomSeekBarPreference
+        <com.kasumi.closet.preference.CustomSeekBarPreference
             android:key="pulse_solid_fudge_factor"
             android:title="@string/pulse_custom_fudge_factor"
             settings:max="7"
             settings:min="2"
             android:dependency="pulse_2"/>
 
-        <com.aosip.owlsnest.preference.CustomSeekBarPreference
+        <com.kasumi.closet.preference.CustomSeekBarPreference
             android:key="lavamp_solid_speed"
             android:title="@string/lavamp_solid_speed_title"
             settings:max="30000"

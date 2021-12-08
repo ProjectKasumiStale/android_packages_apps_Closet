@@ -16,7 +16,7 @@
 
 <resources>
     <!-- AOSiP theme -->
-    <color name="background_aosip_blue_grey">#ff1b1f23</color>
+    <color name="background_kasumi_blue_grey">#ff1b1f23</color>
     <color name="background_tab_pressed">#1AFFFFFF</color>
     <color name="icon_tint_color">@color/material_deep_teal_500</color>
     <color name="action_picker_fab_background">@color/theme_accent</color>

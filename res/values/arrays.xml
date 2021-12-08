@@ -328,8 +328,8 @@ limitations under the License.
     </string-array>
 
     <string-array name="systemui_navbar_settings_fragments" translatable="false">
-        <item>com.aosip.owlsnest.navigation.SmartbarSettings</item>
-        <item>com.aosip.owlsnest.navigation.FlingSettings</item>
+        <item>com.kasumi.closet.navigation.SmartbarSettings</item>
+        <item>com.kasumi.closet.navigation.FlingSettings</item>
     </string-array>
 
     <string-array name="systemui_navbar_mode_settings">
